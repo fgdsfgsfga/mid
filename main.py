@@ -24,3 +24,5 @@ def strcounter(a):
     for char in a:
         syms_counter[char] = syms_counter.get(char, 0)+1
     print(syms_counter)
+
+    print(78)
